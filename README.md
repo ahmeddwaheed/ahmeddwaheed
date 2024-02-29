@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/29347350?v=4" height="200"/>
+  <img src="https://qph.fs.quoracdn.net/main-qimg-4749e0cf8738ea72e2d39c4a8437e9f4-c" height="300" width="500"/>
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ahmed Waheed</h1>
