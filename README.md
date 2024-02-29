@@ -50,7 +50,7 @@
   <code> <img height="50" alt="sqlite" src="https://static-00.iconduck.com/assets.00/sqlite-icon-2048x909-7nkrc3bm.png"> </code>
   <code> <img height="50" alt="k8s" src="https://static-00.iconduck.com/assets.00/kubernetes-icon-2048x1995-r1q3f8n7.png"> </code>
   <code> <img height="50" alt="aws" src="https://d3sxshmncs10te.cloudfront.net/icon/premium/png-256/2284623.png?token=eyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkM3N4c2htbmNzMTB0ZS5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTcwOTQyMTMxNywicSI6bnVsbCwiaWF0IjoxNzA5MTYyMTE3fQ__.613de8c2559d9c446c0ea1714cb7f1a98f45204ee7b930618096324939bfa860"> </code>
-  <code> <img height="50" alt="mysql" src="https://github.com/uannabi/-/blob/master/resource/other/mysql-ar21.svg"> </code>
+  <code> <img height="50" alt="mysql" src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png"> </code>
   <code> <img height="50" alt="gcp" src="https://e7.pngegg.com/pngimages/834/472/png-clipart-google-cloud-icon-google-cloud-platform-cloud-computing-amazon-web-services-virtual-private-cloud-cloud-computing-text-trademark-thumbnail.png"> </code>
   <code> <img height="50" alt="flask" src="https://github.com/Akash-chowrasia/Akash-chowrasia/blob/main/images/flask.svg"> </code>
   <code> <img height="50" alt="Ruby on Rails" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/2560px-Ruby_On_Rails_Logo.svg.png"> </code>
@@ -63,17 +63,20 @@
 
 <hr>
 
-#### Want to Build Your Own?
+🎯 **Experience**
 
-Do you like my profile and want to build your own? It's very simple. GitHub recently added a new feature called **Profile Readmes**. For it to work, do the following:
+### <img src="https://statsbomb.com/wp-content/uploads/2022/03/logo.svg" alt="Statsbomb" width="150" height="20"> (June 2019 - Current)
+**Software Engineer**
 
-1. Create a *special* GitHub repository with your username as repository name. My username is `ahmeddwaheed` so my profile readme repository has the name `ahmeddwaheed`.
-1. Add a `README.md` to this repository.
-1. Put some cool content about yourself (or anything you want) into `README.md`.
+<p>Sports data analytics deliver high-quality events to large clubs around the globe. </p>
 
-And that's about it. The `README.md` of your profile readme repository will be displayed on your profile page. 
+### <img src="https://www.dwamk.com/storage/media/32/logo_red.png" alt="Robusta Studio" width="150" height="35"> (Feb 2018 - May 2019)
+**Software Engineer**
 
------
+<p> E-Commerce & SaaS Solutions For Digital Brands </p>
+
+<hr/>
+
 Credits: [Ahmed Waheed](https://github.com/ahmeddwaheed)
 
 Last Edited on: 29/02/2024
