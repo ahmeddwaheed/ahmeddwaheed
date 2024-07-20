@@ -65,7 +65,11 @@
 
 🎯 **Experience**
 
-### <img src="https://statsbomb.com/wp-content/uploads/2022/03/logo.svg" alt="Statsbomb" width="150" height="20"> (June 2019 - Current)
+### <img src="https://portal.elsupplier.com/backend/public/storage/supplierImage/1585146837.png" alt="Breadfast" width="150" height="35"> (April 2024 - Current)
+**Senior Software Engineer**
+<p> Fast-growing Egyptian grocery app revolutionizing user shopping, with ambitious plans for MENA expansion. </p>
+
+### <img src="https://statsbomb.com/wp-content/uploads/2022/03/logo.svg" alt="Statsbomb" width="150" height="20"> (June 2019 - Mar 2024)
 **Software Engineer**
 
 <p>Sports data analytics deliver high-quality events to large clubs around the globe. </p>
